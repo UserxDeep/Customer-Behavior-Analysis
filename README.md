@@ -14,7 +14,6 @@ The project focuses on uncovering spending patterns, customer segments, product 
 - [Dashboard](#dashboard)
 - [Key Insights](#key-insights)
 - [Business Recommendations](#business-recommendations)
-- [How to Run](#how-to-run)
 
 ---
 
